@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TDIF3
 <<<<<<< HEAD
@@ -6,3 +7,5 @@ Voici le READ ME, de notre projet ! Veuillez trouver les branches de Karl, Léo 
 
 "Il n'y a pas de raccourci pour devenir Hokage et personne ne reconnaît celui qui ne devient pas Hokage." - Naruto Uzumaki.
 
+
+>>>>>>> e470b3f (exo4 l2-6 qrt)
